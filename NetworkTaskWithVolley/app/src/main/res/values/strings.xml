@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkTaskWithVolley</string>
+    <string name="center_text">To see the response from API call, please look at the logcat in android studio.</string>
+</resources>

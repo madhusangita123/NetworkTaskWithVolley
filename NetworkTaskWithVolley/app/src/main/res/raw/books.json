@@ -1,0 +1,50 @@
+{
+  "count": 5,
+  "entries": [
+    {
+      "API": "Bhagavad Gita",
+      "Description": "Bhagavad Gita text",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "yes",
+      "Link": "https://bhagavadgita.io/api",
+      "Category": "Books"
+    },
+    {
+      "API": "BookNomads",
+      "Description": "Books published in the Netherlands and Flanders (about 2.5 million), book covers, and related data",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Link": "https://www.booknomads.com/dev",
+      "Category": "Books"
+    },
+    {
+      "API": "Goodreads",
+      "Description": "Books",
+      "Auth": "apiKey",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Link": "https://www.goodreads.com/api",
+      "Category": "Books"
+    },
+    {
+      "API": "Google Books",
+      "Description": "Books",
+      "Auth": "OAuth",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Link": "https://developers.google.com/books/",
+      "Category": "Books"
+    },
+    {
+      "API": "Open Library",
+      "Description": "Books, book covers, and related data",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Link": "https://openlibrary.org/developers/api",
+      "Category": "Books"
+    }
+  ]
+}
